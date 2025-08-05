@@ -23,3 +23,8 @@ this project applied **Linear Regression** to predict whether a patient has diab
    jupyter notebook labreportUingMedian.ipynb
 ```
 3. Run all cells sequentially.
+
+# KNN Implementaion from scratch
+use iris dataset from skicit learn
+news dataset link: 
+**Source:** [news Dataset on Kaggle](https://www.kaggle.com/datasets/rmisra/news-category-dataset))
