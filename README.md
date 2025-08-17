@@ -28,3 +28,5 @@ this project applied **Linear Regression** to predict whether a patient has diab
 use iris dataset from skicit learn
 news dataset link: 
 **Source:** [news Dataset on Kaggle](https://www.kaggle.com/datasets/rmisra/news-category-dataset))
+# XOR dataset use with implementation from scratch
+
